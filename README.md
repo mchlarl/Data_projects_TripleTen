@@ -1,4 +1,4 @@
-# TripleTen_projects
+# TripleTen_projects_Michael_Ariel
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
